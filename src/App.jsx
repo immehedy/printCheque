@@ -16,7 +16,7 @@ function App() {
   return (
     <>
       <div className="p-4 max-w-5xl border rounded-md mx-auto mt-24">
-        <h1 className="text-2xl font-bold text-center">Cheque Printing</h1>
+        <h1 className="text-2xl font-bold text-center">Fourbit Cheque Printing</h1>
 
         <div className="mt-4">
           <label className="block mb-2">Payee Name:</label>
