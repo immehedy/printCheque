@@ -31,8 +31,8 @@ const PrintSection = ({ payee, amount, date, isAcPayee }) => {
       <p className="absolute mt-[120.94488189px] ml-[85.590551181px] ">
         {payee ?? "Mehedy Hassan"}
       </p>
-      {/* <p className="absolute mt-[158.74015748px] ml-[910.23622047px]"> */}
-      <p className="absolute mt-[158.74015748px] ml-[610.23622047px]">
+      <p className="absolute mt-[158.74015748px] ml-[910.23622047px]">
+      {/* <p className="absolute mt-[158.74015748px] ml-[610.23622047px]"> */}
         {amount ?? "0"} /-
       </p>
       <p className="absolute w-[359.05511811px] mt-[170.07874016px] ml-[132.28346457px]">
